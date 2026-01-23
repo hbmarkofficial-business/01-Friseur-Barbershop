@@ -131,14 +131,14 @@ const Contact = () => {
 
                   <div className="aspect-video rounded-sm overflow-hidden border border-border">
                     <iframe
-                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2593.0466369434594!2d11.117062376893147!3d49.464733457845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479f57dec87eba7f%3A0xac674ba124944238!2sLord%20Barbershop%20Coiffeur!5e0!3m2!1sde!2sde!4v1769174581720!5m2!1sde!2sde"
+                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2594.4459972723885!2d11.08606389271262!3d49.43828698603055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479f5773dc569bc1%3A0x7c13fe84df464706!2sForsthofstra%C3%9Fe%202%2C%2090461%20N%C3%BCrnberg!5e0!3m2!1sde!2sde!4v1769182906354!5m2!1sde!2sde"
                       width="100%"
                       height="100%"
                       style={{ border: 0, filter: 'grayscale(100%) contrast(1.2)' }}
                       allowFullScreen
                       loading="lazy"
                       referrerPolicy="no-referrer-when-downgrade"
-                      title="Standort Lord Barbershop Coiffeur"
+                      title="Standort Forsthofstraße 2, 90461 Nürnberg"
                     />
                   </div>
                 </div>
@@ -154,6 +154,7 @@ const Contact = () => {
 };
 
 export default Contact;
+
 
 
 
