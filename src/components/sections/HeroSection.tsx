@@ -40,8 +40,8 @@ export const HeroSection = () => {
             className="font-display text-5xl md:text-7xl lg:text-8xl font-bold text-foreground leading-tight opacity-0 animate-fade-up"
             style={{ animationDelay: '400ms', animationFillMode: 'forwards' }}
           >
-            Lord Barbershop
-            <span className="block text-gradient">Coiffeur</span>
+            01 Friseur &
+            <span className="block text-gradient">Barbershop</span>
           </h1>
 
           {/* Description */}
